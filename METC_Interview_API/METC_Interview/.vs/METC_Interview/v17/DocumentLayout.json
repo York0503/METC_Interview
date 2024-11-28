@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\METC_Interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5876235-0789-4A58-92EE-D3BEA65D51F8}|Solution Items{E5876235-0789-4A58-92EE-D3BEA65D51F8}|C:\\Users\\user\\source\\repos\\METC_Interview\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E5876235-0789-4A58-92EE-D3BEA65D51F8}|Solution Items{E5876235-0789-4A58-92EE-D3BEA65D51F8}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|c:\\users\\user\\source\\repos\\metc_interview\\metc_interview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|solutionrelative:metc_interview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|c:\\users\\user\\source\\repos\\metc_interview\\metc_interview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|solutionrelative:metc_interview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|c:\\users\\user\\source\\repos\\metc_interview\\metc_interview\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|solutionrelative:metc_interview\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|c:\\users\\user\\source\\repos\\metc_interview\\metc_interview\\models\\myoffice_acpd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|solutionrelative:metc_interview\\models\\myoffice_acpd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|c:\\users\\user\\source\\repos\\metc_interview\\metc_interview\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D57D9A-F22D-4013-A248-8B2CA603DAA0}|METC_Interview\\METC_Interview.csproj|solutionrelative:metc_interview\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5876235-0789-4A58-92EE-D3BEA65D51F8}|Solution Items{E5876235-0789-4A58-92EE-D3BEA65D51F8}|C:\\Users\\user\\source\\repos\\METC_Interview\\CHANGELOG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E5876235-0789-4A58-92EE-D3BEA65D51F8}|Solution Items{E5876235-0789-4A58-92EE-D3BEA65D51F8}|solutionrelative:CHANGELOG.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5876235-0789-4A58-92EE-D3BEA65D51F8}|Solution Items{E5876235-0789-4A58-92EE-D3BEA65D51F8}|C:\\Users\\user\\source\\repos\\METC_Interview\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E5876235-0789-4A58-92EE-D3BEA65D51F8}|Solution Items{E5876235-0789-4A58-92EE-D3BEA65D51F8}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 851,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "METC_Interview\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "METC_Interview\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAA2wGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:17:53.812Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Myoffice_ACPD.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\Models\\Myoffice_ACPD.cs",
+              "RelativeDocumentMoniker": "METC_Interview\\Models\\Myoffice_ACPD.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\Models\\Myoffice_ACPD.cs",
+              "RelativeToolTip": "METC_Interview\\Models\\Myoffice_ACPD.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAxwL8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:20:54.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-28T15:56:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "CHANGELOG.md",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\CHANGELOG.md",
+              "RelativeToolTip": "CHANGELOG.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-28T15:56:39.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-28T15:56:31.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "METC_Interview\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\WeatherForecast.cs",
+              "RelativeToolTip": "METC_Interview\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:44:34.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\Program.cs",
+              "RelativeDocumentMoniker": "METC_Interview\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\Program.cs",
+              "RelativeToolTip": "METC_Interview\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:17:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\appsettings.json",
+              "RelativeDocumentMoniker": "METC_Interview\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\METC_Interview\\METC_Interview\\appsettings.json",
+              "RelativeToolTip": "METC_Interview\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T13:17:09.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
